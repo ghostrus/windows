@@ -1,0 +1,2 @@
+command
+linux reboot
