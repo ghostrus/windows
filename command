@@ -1,2 +1,1 @@
-command
-linux reboot
+yum update
